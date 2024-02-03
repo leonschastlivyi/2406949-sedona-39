@@ -2,7 +2,7 @@
 
 * Студент: [Леон Счастливый](https://up.htmlacademy.ru/htmlcss/39/user/2406949).
 * Наставник: [Анна Лисененкова](https://htmlacademy.ru/profile/id85590).
-
+* Сайт: [Мой проект Седона](https://leonschastlivyi.github.io/2406949-sedona-39/)
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
